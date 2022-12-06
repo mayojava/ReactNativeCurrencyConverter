@@ -33,7 +33,7 @@
     "moment": "^2.20.1",
     "prop-types": "^15.6.0",
     "react": "16.2.0",
-    "react-native": "0.52.0",
+    "react-native": "0.70.6",
     "react-native-dropdownalert": "^3.3.0",
     "react-native-extended-stylesheet": "^0.8.1",
     "react-navigation": "^1.0.3"
